@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6763629-5dd5-42ab-9cc6-fd06a07f05c7" name="Changes" comment="VaxHub" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2etJPYFM4nXpNmYAAwruaJruzcW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/vaxhub/src/main/resources/Report&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/database-programming-javafx/vaxhub/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\vaxhub\src\main\resources\Report" />
+      <recent name="D:\Projects\vaxhub\src\main\resources\assets.icon" />
+      <recent name="D:\Projects\vaxhub\src\main\resources\view" />
+      <recent name="D:\Projects\vaxhub\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\vaxhub\src\main\resources\assets.icon" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LauncherWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.vaxhub.LauncherWrapper" />
+      <module name="VaxHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.vaxhub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LauncherWrapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6763629-5dd5-42ab-9cc6-fd06a07f05c7" name="Changes" comment="" />
+      <created>1712676570510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712676570510</updated>
+      <workItem from="1712676572092" duration="8750000" />
+      <workItem from="1712717918577" duration="61000" />
+      <workItem from="1712718038907" duration="28000" />
+      <workItem from="1712718187887" duration="486000" />
+      <workItem from="1713079531321" duration="1091000" />
+      <workItem from="1713146804970" duration="597000" />
+      <workItem from="1713180344118" duration="2244000" />
+      <workItem from="1713191687343" duration="1613000" />
+      <workItem from="1713276562468" duration="1264000" />
+      <workItem from="1713612484952" duration="785000" />
+      <workItem from="1713877640406" duration="1203000" />
+      <workItem from="1714060211686" duration="3000" />
+      <workItem from="1714063008749" duration="3350000" />
+      <workItem from="1714097753015" duration="9875000" />
+      <workItem from="1714192091372" duration="1196000" />
+      <workItem from="1714193297506" duration="193000" />
+      <workItem from="1714193501536" duration="99000" />
+      <workItem from="1714193608969" duration="15418000" />
+      <workItem from="1714237356898" duration="110000" />
+      <workItem from="1714273931585" duration="28664000" />
+      <workItem from="1714368904905" duration="29182000" />
+      <workItem from="1714449010860" duration="7586000" />
+      <workItem from="1714501228515" duration="1418000" />
+      <workItem from="1714570200709" duration="7438000" />
+      <workItem from="1714654981683" duration="1570000" />
+      <workItem from="1714658327559" duration="15000" />
+      <workItem from="1714658351938" duration="298000" />
+      <workItem from="1714658733769" duration="1389000" />
+      <workItem from="1714661884458" duration="893000" />
+      <workItem from="1714662790713" duration="5828000" />
+      <workItem from="1714706283869" duration="10643000" />
+      <workItem from="1714742710702" duration="6575000" />
+      <workItem from="1714803588703" duration="4483000" />
+      <workItem from="1714961298544" duration="254000" />
+      <workItem from="1714961879808" duration="277000" />
+      <workItem from="1714962333625" duration="36814000" />
+      <workItem from="1715049169694" duration="90275000" />
+      <workItem from="1715267451313" duration="15751000" />
+      <workItem from="1715316307104" duration="3620000" />
+      <workItem from="1715410821132" duration="329000" />
+      <workItem from="1715440008974" duration="2045000" />
+      <workItem from="1715481064633" duration="17997000" />
+      <workItem from="1715572139230" duration="8779000" />
+      <workItem from="1715583430234" duration="733000" />
+      <workItem from="1715597151631" duration="1273000" />
+      <workItem from="1715598761825" duration="28772000" />
+      <workItem from="1715659780606" duration="14613000" />
+      <workItem from="1715699963323" duration="274000" />
+      <workItem from="1715700306536" duration="207000" />
+      <workItem from="1715700614633" duration="14139000" />
+      <workItem from="1715768030700" duration="9707000" />
+      <workItem from="1715820055353" duration="58398000" />
+      <workItem from="1715934921550" duration="600000" />
+      <workItem from="1715974309494" duration="625000" />
+      <workItem from="1716013402491" duration="4340000" />
+      <workItem from="1716040358369" duration="8777000" />
+      <workItem from="1716055504639" duration="6236000" />
+      <workItem from="1716085684694" duration="6077000" />
+      <workItem from="1716647722218" duration="674000" />
+      <workItem from="1716698175865" duration="613000" />
+      <workItem from="1716700345276" duration="1208000" />
+      <workItem from="1716832166720" duration="692000" />
+      <workItem from="1716908016367" duration="607000" />
+      <workItem from="1718077399361" duration="5762000" />
+      <workItem from="1718703985613" duration="31000" />
+      <workItem from="1719029303568" duration="1467000" />
+      <workItem from="1719802820238" duration="1057000" />
+      <workItem from="1719829817137" duration="434000" />
+      <workItem from="1719830266139" duration="7931000" />
+      <workItem from="1719977074504" duration="520000" />
+      <workItem from="1720088531154" duration="1889000" />
+      <workItem from="1720103378319" duration="598000" />
+      <workItem from="1720190926638" duration="2796000" />
+      <workItem from="1720242286000" duration="1557000" />
+    </task>
+    <task id="LOCAL-00001" summary="CONTENT UPDATE">
+      <option name="closed" value="true" />
+      <created>1716096734076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716096734076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CONTENT UPDATE 2">
+      <option name="closed" value="true" />
+      <created>1716096957248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716096957248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="VaxHub">
+      <option name="closed" value="true" />
+      <created>1719029402303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719029402303</updated>
+    </task>
+    <task id="LOCAL-00004" summary="VaxHub">
+      <option name="closed" value="true" />
+      <created>1719830711098</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719830711098</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CONTENT UPDATE" />
+    <MESSAGE value="CONTENT UPDATE 2" />
+    <MESSAGE value="VaxHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="VaxHub" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
